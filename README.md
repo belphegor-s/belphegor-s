@@ -1,4 +1,4 @@
-Hi 👋 My name is Ayush
+Hi 👋 my name is Ayush
 ======================
 
 Software Developer
