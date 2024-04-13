@@ -1,16 +1,15 @@
-Hi 👋 my name is Ayush
+yo! my name is ayush
 ======================
 
 Software Developer
 ------------------
 
-I've been doing full stack development for around 3+ years. Helped multiple startups in building scalable and beautiful web apps and backend systems. Me in three words: Developer/Tinkerer/Stoic
+I've been doing full-stack development for around 3+ years. Helped multiple startups in building scalable and beautiful web apps and backend systems. Me in three words: Developer/Tinkerer/Stoic
 
 * 🌍  I'm based in Lucknow, India
 * 🖥️  See my portfolio at [Ayush's Portfolio](http://ayushsharma.me/)
 * ✉️  You can contact me at [ayush2162002@gmail.com](mailto:ayush2162002@gmail.com)
 * 🧠  I'm learning GoLang
-* ⚡  I've OCD (not even a single object is placed imperectly on my desk)
 
 ### Skills
 
