@@ -6,11 +6,10 @@ software dev
 
 i've been doing full-stack development for around 3+ years. helped multiple startups in building scalable and beautiful web apps and backend systems.
 
-* 🖥️  See my portfolio at [Ayush's Portfolio](http://ayushsharma.me/)
-* ✉️  You can contact me at [ayush2162002@gmail.com](mailto:ayush2162002@gmail.com)
-* 🧠  I'm learning GoLang
+* 🖥️  [Ayush's Portfolio](http://ayushsharma.me/)
+* ✉️  contact me at [ayush2162002@gmail.com](mailto:ayush2162002@gmail.com)
 
-### Skills
+### skills
 
 
 <p align="left">
