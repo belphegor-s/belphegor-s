@@ -4,7 +4,7 @@ yo! my name is ayush
 software dev
 ------------------
 
-i've been doing full-stack development for around 3+ years. helped multiple startups in building scalable and beautiful web apps and backend systems.
+i've been doing full-stack development for quiet some time now. helped multiple startups in building scalable and beautiful web apps and backend systems.
 
 * 🖥️  [Ayush's Portfolio](http://ayushsharma.me/)
 * ✉️  contact me at [ayush2162002@gmail.com](mailto:ayush2162002@gmail.com)
