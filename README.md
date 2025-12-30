@@ -4,7 +4,7 @@
 
 i've been doing full-stack development for quiet some time now. helped multiple startups in building scalable and beautiful web apps and backend systems.
 
--   🖥️  [Portfolio](http://ayushsharma.me/)
+-   [Portfolio](http://ayushsharma.me/)
 <!-- * Meet [Leo](https://storage.pixly.sh/uploads/a3071157-2ac4-4e16-8fd4-7879f3ed0b40-leo.jpg), the boss, I just pay the bills -->
 -   <details>
     <summary>Meet Leo, the boss. I just pay the bills 🐾</summary>
@@ -13,7 +13,7 @@ i've been doing full-stack development for quiet some time now. helped multiple 
 
     </details>
 
--   ✉️  contact me at [hello@ayushsharma.me](mailto:hello@ayushsharma.me)
+-   Contact me at [hello@ayushsharma.me](mailto:hello@ayushsharma.me)
 
 ### skills
 
